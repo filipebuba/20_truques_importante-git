@@ -16,8 +16,6 @@
 - **Verificar o Status Upstream**: `git fetch --all --prune`
 - Busca atualizações do remoto e remove referências a branches excluídas.
 
-![Git Command Line](https://miro.medium.com/v2/resize:fit:700/1*lyEwUyQSkpm0rb4yvn80qA.png)
-
 ## Secção 2: Gerenciamento de Branches
 - **Limpar Branches Locais**: `git branch -d <branch-name>`
 - Remove branches antigas que não são mais necessárias.
